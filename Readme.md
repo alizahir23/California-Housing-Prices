@@ -1,4 +1,4 @@
-﻿# California Housing Data Analysis
+# California Housing Data Analysis
 
 This repository contains a Jupyter notebook that performs data analysis and visualization on the California Housing dataset. The analysis includes data preprocessing, feature engineering, and model building to predict housing prices.
 
@@ -17,7 +17,7 @@ This repository contains a Jupyter notebook that performs data analysis and visu
 ## Overview
 The goal of this project is to predict the median house value in California districts using various features provided in the dataset. The notebook covers the following steps:
 - Data loading and exploration
-- Data preprocessing and cleaning
+- Data  preprocessing and cleaning
 - Feature engineering and selection
 - Building and evaluating regression models
 - Hyperparameter tuning
